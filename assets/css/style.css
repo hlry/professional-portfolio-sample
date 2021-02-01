@@ -224,6 +224,10 @@ section {
   background-image: url("../images/password-generator.png");
 }
 
+#cal-parks {
+  background-image: url("../images/cal-park-planner.png") ;
+}
+
 .project-name {
   background-color: var(--surfgreen-color);
   padding: 0;
