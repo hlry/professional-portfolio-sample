@@ -228,6 +228,10 @@ section {
   background-image: url("../images/cal-park-planner.png") ;
 }
 
+#pet-adopter {
+  background-image: url("../images/pets-r-us.png")
+}
+
 .project-name {
   background-color: var(--surfgreen-color);
   padding: 0;
